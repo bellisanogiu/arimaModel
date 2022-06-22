@@ -1,0 +1,4 @@
+return exp:25.6000941028
+return pred:0.442370282149
+mdd:0.6520834770530831
+return over maximum drawdown:0.6783951713490752
